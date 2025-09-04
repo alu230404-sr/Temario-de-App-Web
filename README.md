@@ -5,7 +5,7 @@ Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplica
 Historia y evolución del desarrollo web
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)
 2.Arquitectura de aplicaciones web
-Cliente-Servidor
+Cliente-Servidor 
 Arquitectura de tres capas (presentación, lógica, datos)
 REST y API-first design
 3. -Lenguajes y tecnologías fundamentales
