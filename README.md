@@ -18,6 +18,14 @@
    _SPA (Single Page Application): cargan una sola página y actualizan contenido dinámicamente (React, Angular)._  
    _PWA (Progressive Web App): aplicaciones web que funcionan offline y pueden instalarse como apps móviles._
 
+2. Arquitectura de aplicaciones web  
+   Cliente-Servidor  
+   _El cliente (navegador) solicita recursos y el servidor los responde; ambos se comunican mediante HTTP/S._  
+   Arquitectura de tres capas (presentación, lógica, datos)  
+   _Separación en capa de presentación (UI), lógica de negocio (backend) y datos (base de datos)._  
+   REST y API-first design  
+   _REST define reglas para construir APIs que usan HTTP para operar recursos (GET, POST, PUT, DELETE). El API-first design prioriza la creación de la API antes que el frontend o backend._
+
 3. Arquitectura de aplicaciones web  
    Cliente-Servidor  
    _El cliente (navegador) solicita recursos y el servidor los responde; ambos se comunican mediante HTTP/S._  
