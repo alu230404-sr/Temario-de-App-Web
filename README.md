@@ -26,7 +26,11 @@
    REST y API-first design  
    _REST define reglas para construir APIs que usan HTTP para operar recursos (GET, POST, PUT, DELETE). El API-first design prioriza la creación de la API antes que el frontend o backend._
 
-3. Arquitectura de aplicaciones web  
+
+   <img width="331" height="173" alt="image" src="https://github.com/user-attachments/assets/cbbadbd7-177b-4c65-a01f-ee440e547c4d" />  
+
+
+4. Arquitectura de aplicaciones web  
    Cliente-Servidor  
    _El cliente (navegador) solicita recursos y el servidor los responde; ambos se comunican mediante HTTP/S._  
    Arquitectura de tres capas (presentación, lógica, datos)  
