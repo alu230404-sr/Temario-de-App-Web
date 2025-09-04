@@ -59,6 +59,10 @@
 ---
 
 Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
+
+
+<img width="203" height="175" alt="image" src="https://github.com/user-attachments/assets/d49085ab-6656-4baf-b204-4cac8331f5c3" />  
+
 1. Diseño e implementación del frontend  
    Maquetación/Wireframe/Mockup  
    _Wireframes y mockups son esquemas visuales de la interfaz; la maquetación convierte estos diseños en código (HTML/CSS)._  
