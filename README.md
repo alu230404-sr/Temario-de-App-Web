@@ -34,7 +34,11 @@
    HTML, CSS, JavaScript, PHP, MySQL  
    _HTML estructura la web, CSS la diseña visualmente, JavaScript añade interactividad. PHP es lenguaje de backend y MySQL sistema de gestión de bases de datos relacionales._
 
-6. Control de versiones  
+<img width="294" height="167" alt="image" src="https://github.com/user-attachments/assets/30677523-1362-4627-bf83-6640ef1ba6d9" />
+
+   
+
+7. Control de versiones  
    Git y GitHub  
    _Git permite gestionar versiones del código; GitHub es una plataforma para alojar repositorios y colaborar._  
    Flujo de trabajo con ramas (branching, merge, pull requests)  
