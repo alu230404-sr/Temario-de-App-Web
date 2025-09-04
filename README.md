@@ -9,7 +9,7 @@
    Historia y evolución del desarrollo web  
    _La web comenzó como un sistema de documentos enlazados (HTML estático) y evolucionó hacia aplicaciones interactivas gracias a tecnologías como JavaScript, AJAX y frameworks modernos. La web actual permite experiencia de usuario rica, acceso móvil y aplicaciones complejas._
 
-<img width="279" height="158" alt="image" src="https://github.com/user-attachments/assets/791bb770-af95-413f-961c-00260e2885fd" />
+<img width="279" height="158" alt="image" src="https://github.com/user-attachments/assets/791bb770-af95-413f-961c-00260e2885fd" />  
 
 
    Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
