@@ -93,6 +93,8 @@ Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcion
 
 
 <img width="260" height="166" alt="image" src="https://github.com/user-attachments/assets/8db32071-704f-485a-9e68-21607587346d" />  
+
+
 1. Integración de frontend y backend  
    - Conectar la interfaz de usuario (frontend) con el backend utilizando APIs.  
      _El frontend utiliza HTTP (fetch/AJAX) para enviar y recibir datos del backend._  
