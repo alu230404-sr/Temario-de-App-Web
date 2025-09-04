@@ -26,11 +26,15 @@
    REST y API-first design  
    _REST define reglas para construir APIs que usan HTTP para operar recursos (GET, POST, PUT, DELETE). El API-first design prioriza la creación de la API antes que el frontend o backend._
 
-4. Lenguajes y tecnologías fundamentales  
+<img width="315" height="173" alt="image" src="https://github.com/user-attachments/assets/69c62ba2-e5c7-4343-b34d-1c23369fda8d" />
+
+   
+
+5. Lenguajes y tecnologías fundamentales  
    HTML, CSS, JavaScript, PHP, MySQL  
    _HTML estructura la web, CSS la diseña visualmente, JavaScript añade interactividad. PHP es lenguaje de backend y MySQL sistema de gestión de bases de datos relacionales._
 
-5. Control de versiones  
+6. Control de versiones  
    Git y GitHub  
    _Git permite gestionar versiones del código; GitHub es una plataforma para alojar repositorios y colaborar._  
    Flujo de trabajo con ramas (branching, merge, pull requests)  
