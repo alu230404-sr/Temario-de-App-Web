@@ -1,3 +1,4 @@
+
 # Temario-de-App-Web
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
 1.-Introducción al desarrollo web
@@ -30,18 +31,23 @@ Validación de formularios
 Autenticación y autorización 
 
 Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
-1. -Integración de frontend y backend
-Interfaz de usuario Frontend
-Manejo de API
-Proceso de Solicitud y Respuesta de Backend
 
-2.- Almacenamiento en Servidor
-Tipos de servidores 
-Servidores y servicios de hosting 
-Proveedores de Servicios de Almacenamiento
+1. Integración de frontend y backend
+   - Conectar la interfaz de usuario (frontend) con el backend utilizando APIs.
+   - Manejar correctamente las solicitudes (requests) y respuestas (responses) entre el cliente y el servidor.
+   - Ejemplo: El frontend realiza una petición HTTP (fetch/AJAX) para obtener o enviar datos al backend, y este responde con los datos solicitados o el resultado de la operación.
 
-3.-Optimización y rendimiento
-Optimización de recursos (imágenes, scripts)
-Despliegue de aplicaciones web
-CI/CD básico
-Documentación del proyecto
+2. Almacenamiento en servidor
+   - Conocer los diferentes tipos de servidores (dedicados, compartidos, cloud, VPS, etc.).
+   - Entender cómo funcionan los servicios de hosting web para alojar aplicaciones.
+   - Identificar algunos proveedores populares de servicios de almacenamiento y hosting (como Heroku, Vercel, Netlify, AWS, Azure, Google Cloud).
+
+3. Optimización y rendimiento
+   - Optimizar recursos como imágenes y scripts para acelerar la carga de la aplicación.
+   - Implementar técnicas para mejorar el rendimiento, como la minificación de archivos o el uso de cachés.
+   - Desplegar la aplicación web en un entorno real (producción).
+   - Introducción al uso de pipelines de integración y despliegue continuo (CI/CD) para automatizar las pruebas y el despliegue.
+   - Documentar correctamente el proyecto para facilitar su mantenimiento y colaboración futura.
+
+Resumen:
+- El aprendizaje 3 se centra en llevar una aplicación web desde el desarrollo local hasta su funcionamiento real en internet, asegurando su integración, almacenamiento, optimización y disponibilidad pública.
