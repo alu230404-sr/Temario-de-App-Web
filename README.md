@@ -59,6 +59,12 @@
 ---
 
 Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
+<img width="260" height="166" alt="image" src="https://github.com/user-attachments/assets/8db32071-704f-485a-9e68-21607587346d" />  
+
+
+
+
+
 
 1. Diseño e implementación del frontend  
    Maquetación/Wireframe/Mockup  
