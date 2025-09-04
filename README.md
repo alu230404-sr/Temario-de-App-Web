@@ -7,14 +7,18 @@
 
 1. Introducción al desarrollo web  
    Historia y evolución del desarrollo web  
-   _La web comenzó como un sistema de documentos enlazados (HTML estático) y evolucionó hacia aplicaciones interactivas gracias a tecnologías como JavaScript, AJAX y frameworks modernos. La web actual permite experiencia de usuario rica, acceso móvil y aplicaciones complejas._  
+   _La web comenzó como un sistema de documentos enlazados (HTML estático) y evolucionó hacia aplicaciones interactivas gracias a tecnologías como JavaScript, AJAX y frameworks modernos. La web actual permite experiencia de usuario rica, acceso móvil y aplicaciones complejas._
+
+<img width="279" height="158" alt="image" src="https://github.com/user-attachments/assets/791bb770-af95-413f-961c-00260e2885fd" />
+
+
    Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
    _Estáticas: solo HTML/CSS, sin interacción dinámica._  
    _Dinámicas: generan contenido en el servidor (PHP, Node.js)._  
    _SPA (Single Page Application): cargan una sola página y actualizan contenido dinámicamente (React, Angular)._  
    _PWA (Progressive Web App): aplicaciones web que funcionan offline y pueden instalarse como apps móviles._
 
-2. Arquitectura de aplicaciones web  
+3. Arquitectura de aplicaciones web  
    Cliente-Servidor  
    _El cliente (navegador) solicita recursos y el servidor los responde; ambos se comunican mediante HTTP/S._  
    Arquitectura de tres capas (presentación, lógica, datos)  
@@ -22,11 +26,11 @@
    REST y API-first design  
    _REST define reglas para construir APIs que usan HTTP para operar recursos (GET, POST, PUT, DELETE). El API-first design prioriza la creación de la API antes que el frontend o backend._
 
-3. Lenguajes y tecnologías fundamentales  
+4. Lenguajes y tecnologías fundamentales  
    HTML, CSS, JavaScript, PHP, MySQL  
    _HTML estructura la web, CSS la diseña visualmente, JavaScript añade interactividad. PHP es lenguaje de backend y MySQL sistema de gestión de bases de datos relacionales._
 
-4. Control de versiones  
+5. Control de versiones  
    Git y GitHub  
    _Git permite gestionar versiones del código; GitHub es una plataforma para alojar repositorios y colaborar._  
    Flujo de trabajo con ramas (branching, merge, pull requests)  
