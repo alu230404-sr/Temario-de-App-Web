@@ -1,7 +1,8 @@
 
 # Temario-de-App-Web
 
-Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
+#Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
+
 <img width="231" height="167" alt="image" src="https://github.com/user-attachments/assets/eb69f95a-37a7-49df-b2ef-b6632afbb21c" />
 
 1. Introducción al desarrollo web  
